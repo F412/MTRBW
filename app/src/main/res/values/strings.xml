@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Make the Road by Walking</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">If you don\'t have an account yet, please register here.</string>
+    <string name="btn_link_to_login">If you already have an account, please log in here.</string>
+    <string name="logged_in">You are logged in as: </string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="hint_password2">Repeat password</string>
+    <string name="gender_and_year">To enable a more detailed analysis, please provide your gender and year of  birth. These indications are optional.</string>
+    <string name="btn_show_values">SHOW CURRENT VALUES</string>
+    <string name="btn_send_values">SEND VALUES NOW</string>
+    <string name="infotext">The program is currently monitoring your movements. The collected data are transmitted periodically, but not in real-time. Thank you for participating.</string>
+
+
+</resources>
